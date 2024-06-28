@@ -1,0 +1,171 @@
+________________________________________
+Abílio Caldas Figueiredo 
+________________________________________
+Descrição Pessoal
+Olá! Sou Abílio caldas Figueiredo, um desenvolvedor freelancer especializado em Python e mainframe. Tenho vasta experiência em desenvolvimento backend, mainframe, automação e integração de sistemas legados com tecnologias modernas, ajudando empresas a modernizar seus processos e aumentar a eficiência operacional.
+________________________________________
+Perfil Profissional
+•	Engenharia de Sistemas e de Processos
+•	Gestão da Qualidade de Software
+•	Administração das Demandas de Sistemas
+•	Definição de Processos Produtivos	•	Customização e Implantação de Softwares de Terceiros
+•	Certificação de Sistemas
+•	Conversão de Sistemas
+•	Implantação de Ambiente de Aceite, Teste e Homologação
+•	Desenvolvimento de Sistemas desde Requisitos de Negócio até a efetiva implantação em produção
+•	Suporte de Sistemas
+•	Automatização de Geração de Massa de Dados
+________________________________________
+Experiência Profissional
+Consultor em Qualidade e Teste de Software, Analista de Requisitos, Analista de Sistemas, Analista de Processos, Suporte de Sistema e Analista Programador.
+Atuo em TI desde 1976
+Empresas: Keeggo-RSI, CTIS, CAPGEMINI, RSI, DBA, Provider, Stefanini, Green Matrix, Caixa Econômica, FIRJAN, BR Distribuidora, DATAPREV, Embratel, Sul América Seguros, Mongeral Seguros, Caixa Econômica Federal, Bradesco Seguros, Vivo, Bank of Boston, ABN-Amrod Bank, Citibank, Fininvest, BCN (Banco Boavista), Jornal do Brasil, Nova América Indústria Têxtil, Indústria Gráfica Continac, Ponto Frio, Estaleiro Caneco e Supermercado Casas da Banha.
+________________________________________
+
+
+Habilidades Técnicas
+•	Python
+o	Sintaxe e Semântica: Domínio completo
+o	Bibliotecas: NumPy, Pandas, Matplotlib, Requests
+o	Frameworks: Flask, FastAPI
+•	Desenvolvimento Backend
+o	APIs e Serviços Web: Flask, FastAPI
+o	Bancos de Dados: PostgreSQL, SQL Server, MongoDB, SQLAlchemy
+o	Autenticação e Autorização: OAuth, JWT
+o	Manipulação de Excel: Pandas, openpyxl
+o	Integração com Power BI: Automação de dados, criação de dashboards
+•	Mainframe e Integração com Python
+o	JCL, REXX, Control-M
+o	COBOL, CICS
+o	DB2, SQL
+o	Automação de Tarefas: Scripts Python para mainframe
+o	Desenvolvimento de APIs RESTful: Flask, FastAPI
+•	Automação em Desktop
+o	PyAutoGUI: Automação de tarefas repetitivas
+o	Selenium: Automação de navegadores
+•	Testes e Automatização
+o	Testes Automatizados: Robot Framework, Cypress, Playwright
+o	Boas Práticas de Programação: Git, GitHub, GitLab
+•	DevOps
+o	AWS: EC2, S3, RDS, Lambda
+o	Azure: VMs, Azure SQL Database, Azure Functions
+________________________________________
+
+Experiência Profissional
+Keeggo, Rio de Janeiro, RJ
+•	Cargo: Analista de Teste e Desenvolvedor
+•	Período: dezembro/2020 – maio/2024
+•	Responsabilidades na Caixa Econômica Federal:
+o	Desenvolvimento de Automatizadores de Massa de Dados Para Pessoa Física, Pessoa Jurídica, Pessoa Natural e para Cliente em Python e PHP, uso local;
+o	Apoio e desenvolvimento de Automatizadores de Massa de Dados Para Pessoa Física, Pessoa Jurídica, Pessoa Natural e para Cliente em Java Spring Boot, para uso geral (Servidores);
+o	Apoio e desenvolvimento de Automatizadores para exportar arquivos de texto e execução de JCLs no Mainframe, utilizando Control-M e REXX. Bem como Shell Script no UNIX no UNIX;
+o	Inserção no pipeline do projeto códigos desenvolvidos.
+CTIS, Rio de Janeiro, RJ
+•	Cargo: Analista de Suporte Sênior
+•	Período: novembro/2015 – setembro/2020
+•	Responsabilidades na Caixa Econômica Federal:
+o	Suporte ao Desenvolvedor para utilização da ferramenta de desenvolvimento IBM Rational Quality Manager (RQM);
+o	Suporte ao Desenvolvedor para utilização da ferramenta de desenvolvimento IBM Rational Application Developer for WebSphere Software;
+o	Suporte ao Desenvolvedor para utilização da ferramenta de desenvolvimento TOPAZ da Compuware;
+o	Suporte ao Desenvolvedor para utilização de IBM Stored procedures, TSO, CONTROL-M e IBM Z/OS;
+o	Execução de testes WEB e MAINFRAME para os sistemas que compõem o SICVS;  
+o	Especificação e construção de códigos COBOL com DB2 para o novo sistema SIPBS – Sistema de Pagamento de Benefícios.
+Keeggo-RSI, Rio de Janeiro, RJ
+•	Cargo: Consultor
+•	Período: julho/2008 – março/2014
+•	Responsabilidades na Caixa Econômica Federal:
+o	Monitoração, análise e acompanhamento de incidentes ocorridos nos sistemas que estão no ambiente de produção mainframe e baixa plataforma, e acionamento dos pontos focais do sistema;
+o	Continuidade do trabalho de inspeções de artefatos oriundos do desenvolvimento de sistemas e de artefatos de teste, que anteriormente eram executados nas dependências da CAIXA e nas instalações da Keeggo-RSI;
+o	Execução de auditorias e inventários;
+o	Desenvolvimento de ferramentas para:
+	Auditoria de códigos COBOL, CICS, SQL/DB2; 
+	Automatização das auditorias JAVA, C++ e DELPHI;
+	Inventário de códigos COBOL, CICS e SQL/DB2;
+	Inventário de JCL;
+	Análise de Ponto de Função (Engenharia Reversa de códigos COBOL).
+•	Responsabilidades na Keeggo-RSI:
+o	Desenvolvimento de novos processos para Administrar Demandas de Serviços.
+•	Responsabilidades na FIRJAN:
+o	Levantamento inicial da Área da Administração de Mudanças e elaboração de parecer.
+•	Responsabilidades na BR Distribuidora:
+o	Monitoração e análise de aplicações e banco de dados (JAVA e Oracle) para identificar gargalos. Engenharia reversa para documentar dicionário de dados, monitoração e análise para melhoria no banco de dados Oracle.
+•	Responsabilidades na Bricon/DATAPREV:
+o	Monitoração e análise de aplicações, banco de dados, servidores e redes (JAVA e Oracle, AIX) para identificar gargalos.
+•	Responsabilidades na Hildebrando/Embratel:
+o	Inventário de aplicações COBOL. RPG IV e PL/SQL (AIX).
+•	Responsabilidades na Sul América Seguros:
+o	Levantamento inicial da Área de Testes para o Ramo de Seguros AUTO elaboração de parecer.
+•	Responsabilidades na Mongeral Seguros:
+o	Inventário de aplicações COBOL e PL/SQL (AIX).
+DBA, Rio de Janeiro, RJ
+•	Cargo: Consultor
+•	Período: março/2005 – junho/2008
+•	Realizações na Caixa Econômica Federal:
+o	Participação ativa na criação do SAT – Qualidade de Software (Segmento de Aceite e Teste). 
+	Objetivo do segmento é receber, verificar, inspecionar e fornecer relatórios de avaliação dos artefatos oriundos das lideranças CAIXA, que são: Especificação de Requisito, Caso de Uso, Especificação de Programa/Caso de Uso Detalhado, Código de Programa, Plano de teste, Estratégias de Teste, Cenário de Teste, Roteiro de Teste e Caso de Teste.
+o	Participação no planejamento do TQS (Ambiente de Teste e Qualidade de Software).
+o	Participação ativa na criação do novo manual de Produção e de diversos Relatórios de Avaliação para os artefatos mencionados anteriormente. 
+o	Participação ativa na criação das seguintes propostas:
+	Manual de Usuário e Manual de Sistema;
+	Planos de: Desenvolvimento de Software, Teste de Software e Qualidade de Software;
+	Especificação de Requisitos;
+	Especificações de Interfaces de: Comunicação, Dados Persistentes, Relatório e Tela;
+	Especificações de Testes de: Funcionalidade/Sistema, Integração, Não-Funcionalidade, Unidade e Programa/Caso de Uso Detalhado e;
+	Normas de melhores práticas para programação COBOL/CICS/DB2 e Relatórios Gerenciais baseados nas ferramentas Eccox.
+	Participação ativa na implantação e customização das Ferramentas ECCOX e COMPUWARE no ambiente de desenvolvimento.
+o	Um dos administradores da Ferramenta ECCOX e das Ferramentas COMPUWARE.
+Provider, Rio de Janeiro, RJ
+•	Cargo: Consultor
+•	Período: agosto/2001 – março/2005
+•	Realizações na Bradesco Seguros:
+o	Administração e execução de manutenções e desenvolvimento de serviços corporativos do Sistema AUTO. Tendo como finalidade fornecer informações das bases de dados do sistema de AUTO para a WEB, CICS e rotinas batches.
+o	Definição e coordenação do projeto de teste para o sistema corporativo “Base Única de Clientes”. Objetivando a melhoria da qualidade das informações em todos os sistemas que passaram a acessar essas novas bases.
+o	Coordenação dos levantamentos e elaboração da proposta técnica do projeto “Avaliação/Solução da Migração da Conexão entre computadores (da Alta com a Baixa plataforma)”, para a padronização da comunicação entre plataformas.
+ 
+Várias Empresas, Rio de Janeiro, RJ
+•	Analista de Sistemas Sênior e Consultor
+•	Período: junho/1976 – maio/2000
+•	Realizações em Várias Empresas:
+o	Citibank - Definição e coordenação do projeto “Unificação dos sistemas de contas-correntes utilizados no Global Consumer Bank e Global Financial Bank”. O objetivo foi de administrar com um único sistema os processos de atualização de saldos das contas-correntes.
+o	Fininvest - Coordenação do projeto” Certificação de sistemas em conformidade com o ano 2000 para a plataforma alta (mainframe) e plataforma baixa (ambiente distribuído)”. Atuei como especialista nas ferramentas COMPUWARE e como Arquiteto de Teste
+o	BCN (Banco Boavista) - Definição e coordenação dos projetos de Informações Consolidadas da CPMF, Informações Cadastrais dos Clientes Imunes de Recolhimento do CPMF, Rotina Trimestral de Informações Cadastrais de todos os Clientes. Responsável pela manutenção do Sistema de Contas Correntes (parte batch).
+o	Citibank - Definição e coordenação dos projetos de “Contas-correntes em Dólar”, “Conversão de Moeda”, "Transferência das Contas Correntes do Citibank N.A. para o Citibank S/A" entre outros. Levando ao alinhamento dos Planos Estratégicos Empresariais com o Plano Estratégico da TI. Responsável pela manutenção do Sistema de Contas Correntes (parte batch)..
+o	Jornal do Brasil - Definição e coordenação do projeto de reengenharia do Sistema de Recursos Humanos. Identificando e documentando todos os processos do RH da empresa para implantar um novo Sistema de Gestão de RH (ADP System).
+o	Jornal do Brasil, Nova América Têxtil e Continac - Definição e coordenação dos projetos de migração de sistemas dos computadores Unisys e COBRA para IBM.  Implantação dos Sistemas (Software de Terceiros) de Gestão de RH, Gestão Contábil, Gestão de Ativo Físico e Gestão de Materiais nas três empresas, e reestruturação das áreas de RH das empresas do grupo têxtil (Nova América).
+o	Casas da Banha, Estaleiro Caneco e Ponto Frio - Desenvolvimento (Analista e Programador) de sistemas das áreas de RH, Administrativo-Financeiro e Materiais.
+o	Casas da Banha - Atuação como Suporte VSE, CICS, DMS e VSAM; Administrador das Bases de Dados; e responsável pela qualidade dos códigos de programas nas Casas da Banha.
+________________________________________
+
+
+Projetos Destacados
+1.	Integração de API com Mainframe
+o	Desenvolvimento de API em Flask/FastAPI para integração com DB2 no mainframe.
+o	Tecnologias: Python, Flask/FastAPI, REXX, JOBs, DB2, COBOL, CICS.
+2.	Automatização de Relatórios
+o	Scripts em Python para automação de geração de relatórios, integração com Excel e Power BI.
+o	Tecnologias: Python, Pandas, Excel, Power BI, Mainframe.
+3.	Migração de Dados
+o	Pipeline de ETL para migração de dados do mainframe para um data warehouse moderno.
+o	Tecnologias: Python, Apache Spark, ETL, APIs RESTful, Mainframe.
+4.	Análise de Dados do Mainframe
+o	Análise e visualização de dados com Pandas e Matplotlib, aplicação de machine learning.
+o	Tecnologias: Python, Pandas, Matplotlib, Machine Learning, Mainframe.
+5.	Automação com Control-M
+o	Implementação de jobs no Control-M para automação de processos críticos.
+o	Tecnologias: Python, Control-M, REXX, Mainframe.
+6.	Scripts REXX
+o	Desenvolvimento de scripts REXX para automação de tarefas no mainframe.
+o	Tecnologias: REXX, Python, Mainframe.
+7.	Automação de Excel com Python
+o	Scripts para manipulação automática de dados em Excel, integração com DB2.
+o	Tecnologias: Python, Pandas, Excel, DB2, Mainframe.
+
+8.	Dashboards Interativos com Power BI
+o	Criação de dashboards com Power BI, integração de dados do mainframe.
+o	Tecnologias: Python, Power BI, APIs RESTful, Mainframe.
+________________________________________
+Contato
+•	Email: abilio_caldas@msn.com	
+•	LinkedIn: (27) Abilio Caldas Figueiredo | LinkedIn
+•	GitHub: abiliocaldas (Abilio Caldas) (github.com)
+
