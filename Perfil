@@ -1,0 +1,111 @@
+________________________________________
+Abílio Caldas Figueiredo
+________________________________________
+Descrição Pessoal
+Olá! Eu sou Abílio caldas Figueiredo, um desenvolvedor freelancer especializado em Python e mainframe. Com uma sólida experiência em desenvolvimento backend, mainframe, automação e integração de sistemas legados com tecnologias modernas, estou preparado para ajudar empresas a modernizar seus processos e aumentar a eficiência de suas operações.
+________________________________________
+Perfil Profissional
+•	Engenharia de Sistemas e de Processos
+•	Gestão da Qualidade de Software
+•	Administração das Demandas de Sistemas
+•	Definição de Processos Produtivos	•	Customização e Implantação de Softwares de Terceiros
+•	Certificação de Sistemas
+•	Conversão de Sistemas
+•	Implantação de Ambiente de Aceite, Teste e Homologação
+•	Desenvolvimento de Sistemas desde Requisitos de Negócio até a efetiva implantação em produção
+•	Suporte de Sistemas
+•	Automatização de Geração de Massa de Dados
+________________________________________
+Experiência Profissional
+Consultor em Qualidade e Teste de Software, Analista de Requisitos, Analista de Sistemas, Analista de Processos, Suporte de Sistema e Analista Programador.
+Atuo em TI desde 1976
+Empresas: Keeggo-RSI, CTIS, CAPGEMINI, RSI, DBA, Provider, Stefanini, Green Matrix, Caixa Econômica, FIRJAN, BR Distribuidora, DATAPREV, Embratel, Sul América Seguros, Mongeral Seguros, Caixa Econômica Federal, Bradesco Seguros, Vivo, Bank of Boston, ABN-Amrod Bank, Citibank, Fininvest, BCN (Banco Boavista), Jornal do Brasil, Nova América Indústria Têxtil, Indústria Gráfica Continac, Ponto Frio, Estaleiro Caneco e Supermercado Casas da Banha.
+________________________________________
+
+Habilidades Técnicas
+Python
+• Sintaxe e Semântica: Domínio completo da sintaxe do Python e das suas principais funcionalidades.
+• Bibliotecas e Frameworks: Experiência com bibliotecas populares como NumPy, Pandas, Matplotlib, Requests, e frameworks como Flask e FastAPI.
+Desenvolvimento Backend
+• APIs e Serviços Web:
+o Flask: Microframework leve para projetos mais simples e flexíveis.
+o FastAPI: Ideal para construir APIs de alta performance com menor latência, utilizando a tipagem do Python para validação e documentação automática.
+• Bancos de Dados: Conhecimento em bancos de dados relacionais (PostgreSQL e SQL Server) e não relacionais (MongoDB), utilizando ORM como SQLAlchemy.
+• Autenticação e Autorização: Experiência com OAuth e JWT.
+• Manipulação de Excel: Uso de bibliotecas como pandas e openpyxl para leitura, escrita e manipulação de arquivos Excel.
+• Integração com Power BI: Automação de processos e integração de dados com Power BI utilizando Python para criar dashboards interativos e relatórios dinâmicos.
+________________________________________
+Mainframe e Integração com Python
+• JCL (Job Control Language): Escrita e gerenciamento de scripts JCL para execução de jobs no mainframe.
+• REXX: Escrita de scripts e automação no ambiente mainframe utilizando REXX.
+• Control-M: Uso de Control-M para agendamento e monitoramento de jobs, além da integração com sistemas mainframe e scripts Python para automação de tarefas.
+• COBOL: Conhecimento em COBOL para desenvolvimento e manutenção de programas no mainframe.
+• CICS (Customer Information Control System): Utilização do CICS para desenvolvimento de aplicações transacionais no mainframe, integrando com sistemas externos via Python.
+• Conexão com DB2: Conhecimento em DB2 para desenvolvimento e manutenção de programas no mainframe com bases de dados DB2.
+• SQL: Conhecimento em SQL para desenvolvimento e manutenção de programas no mainframe com bases de dados DB2.
+• Automação de Tarefas: Desenvolvimento de scripts Python para automatizar tarefas no mainframe, como processamento de dados e geração de relatórios.
+• API e Web Services: Desenvolvimento de APIs RESTful usando frameworks como Flask ou FastAPI para integrar sistemas mainframe com aplicações modernas.
+________________________________________
+Automação em Desktop
+• PyAutoGUI: Utilização da biblioteca PyAutoGUI para automação de tarefas repetitivas em desktop, como manipulação de janelas, cliques e digitação automática.
+• Selenium: Automação de navegadores web para testes e tarefas de scraping de dados.
+• Automatização de Processos: Desenvolvimento de scripts Python para automatizar processos desktop, melhorando a eficiência operacional.
+________________________________________
+Testes e Automatização
+• Testes Automatizados: Experiência em testes automatizados utilizando ferramentas como Robot Framework, Cypress e Playwright para garantir a qualidade de software e integridade dos sistemas desenvolvidos.
+• Boas Práticas de Programação: Controle de versão com Git, GitHub e GitLab, além de produção de documentação clara e completa para projetos.
+• Melhores Práticas de Codificação: Práticas que melhoram a legibilidade e a manutenibilidade do código, facilitam a colaboração em equipe e a integração de novos desenvolvedores ao projeto.
+________________________________________
+
+
+Conhecimento em SQL
+• SQL Relacional: Experiência em SQL para bancos de dados relacionais como DB2, PostgreSQL e SQL Server.
+• NoSQL: Familiaridade com bancos de dados não relacionais como MongoDB.
+________________________________________
+DEVOPS
+• AWS: Implementação e gerenciamento de recursos na AWS para hospedagem de aplicações, utilizando serviços como EC2, S3, RDS, Lambda, etc.
+• Azure: Configuração e administração de serviços Azure para desenvolvimento e implantação de soluções em nuvem, incluindo VMs, Azure SQL Database, Azure Functions, entre outros.
+________________________________________
+Projetos Destacados
+1.	Integração de API com Mainframe
+o Descrição: Desenvolvimento de uma API robusta em Flask/FastAPI para integração com um banco de dados DB2 no mainframe por meio de REXX e JOBs. Utilizei técnicas avançadas de autenticação e autorização, integrando com sistemas COBOL/CICS para garantir a segurança e eficiência das transações.
+o Tecnologias Utilizadas: Python, Flask/FastAPI, REXX, JOBs, DB2, COBOL, CICS.
+________________________________________
+2.	Automatização de Relatórios
+o Descrição: Criação de scripts em Python para automatização da geração de relatórios a partir de dados extraídos do mainframe. Utilizei Pandas para manipulação eficiente de dados e integração com Excel e Power BI para visualizações dinâmicas.
+o Tecnologias Utilizadas: Python, Pandas, Excel, Power BI, Mainframe.
+________________________________________
+3.	Migração de Dados
+o Descrição: Desenvolvimento de um pipeline de ETL para migrar dados do mainframe para um data warehouse moderno. Utilizei Apache Spark para processamento distribuído e APIs RESTful em Python para integração contínua de dados.
+o Tecnologias Utilizadas: Python, Apache Spark, ETL, APIs RESTful, Mainframe.
+________________________________________
+5.	Análise de Dados do Mainframe
+o Descrição: Utilização de Pandas e Matplotlib para análise e visualização avançada de dados extraídos do mainframe. Aplicação de técnicas de machine learning para insights preditivos e análise estatística.
+o Tecnologias Utilizadas: Python, Pandas, Matplotlib, Machine Learning, Mainframe.
+________________________________________
+6.	Automação com Control-M
+o Descrição: Implementação de jobs no Control-M para automação de processos críticos no mainframe, abrangendo tanto a plataforma de baixa plataforma (distribuída) quanto a plataforma de alta plataforma (mainframe). Desenvolvi scripts em Python para integração e execução de tarefas complexas, utilizando REXX para automação de rotinas específicas.
+o Tecnologias Utilizadas: Python, Control-M (baixa plataforma e alta plataforma), REXX, Mainframe.
+________________________________________
+7.	Scripts REXX
+o Descrição: Desenvolvimento de scripts REXX para automação de tarefas no mainframe, integrados com soluções Python para aumentar a eficiência operacional e reduzir o tempo de execução de processos.
+o Tecnologias Utilizadas: REXX, Python, Mainframe.
+________________________________________
+8.	Automação de Excel com Python
+o Descrição: Desenvolvimento de scripts para manipulação automática de dados em Excel, integrando com sistemas mainframe e bancos de dados DB2 para automatizar processos de relatórios e análises.
+o Tecnologias Utilizadas: Python, Pandas, Excel, DB2, Mainframe.
+________________________________________
+
+
+8.	Dashboards Interativos com Power BI
+o Descrição: Criação de dashboards interativos e relatórios dinâmicos utilizando Power BI, integrando dados extraídos do mainframe com Python para visualizações avançadas e tomada de decisões informada.
+o Tecnologias Utilizadas: Python, Power BI, APIs RESTful, Mainframe.
+________________________________________
+Contato
+Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e conhecimentos. Se você está procurando um profissional qualificado para ajudar na modernização e automação de seus sistemas, entre em contato!
+• Email: abilio_caldas@msn.com
+• LinkedIn: (27) Abilio Caldas Figueiredo | LinkedIn
+• GitHub: abiliocaldas (Abilio Caldas) (github.com)
+________________________________________
+Este documento destaca minha experiência abrangente e capacidades técnicas em Python, mainframe, desenvolvimento backend, automação de processos, testes automatizados, análise de dados, e habilidades DEVOPS com AWS e Azure, demonstrando meu compromisso com a entrega de soluções eficazes e inovadoras para seus projetos.
+________________________________________
